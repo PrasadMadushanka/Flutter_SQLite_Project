@@ -1,1 +1,3 @@
-# Flutter_SQLite_Project
+# mobile_app
+
+A new Flutter project.
